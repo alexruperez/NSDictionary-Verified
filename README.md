@@ -11,3 +11,5 @@ with this method you'll not have more NSNull shit anymore.
 ```objective-c
 - (id)verifiedObjectForKey:(id)aKey;
 ```
+
+Also check [NSArray+Verified](https://github.com/alexruperez/NSArray-Verified)!
