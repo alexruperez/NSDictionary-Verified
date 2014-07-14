@@ -13,3 +13,5 @@ with this method you'll not have more NSNull shit anymore.
 ```
 
 Also check [NSArray+Verified](https://github.com/alexruperez/NSArray-Verified)!
+
+Also check [NSObject+NSVerifiedKeyValueCoding](https://github.com/alexruperez/NSObject-NSVerifiedKeyValueCoding)!
